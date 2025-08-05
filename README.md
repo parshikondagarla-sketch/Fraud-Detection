@@ -17,10 +17,4 @@ model.fit(X_train, y_train)
 ```bash
 pip install pandas xgboost
 jupyter notebook fraud_detection.ipynb
-## 📂 Project Structure
-```
-fraud-detection-project/
-├── data/               # Datasets
-├── notebooks/          # Analysis code
-└── powerbi/            # Dashboard files
-```
+
